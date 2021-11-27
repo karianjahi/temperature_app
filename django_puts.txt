@@ -1,0 +1,5 @@
+{
+
+    "date_of_request": "2021-10-13",
+    "locations": ["Berlin", "Mannheim", "Hannover", "Nairobi", 9241]
+}
